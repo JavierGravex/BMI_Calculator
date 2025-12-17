@@ -69,5 +69,17 @@
 
 - **GIVEN** I have selected Imperial for the metric system, AND I am on the Calculate Screen, **WHEN** I input my weight using any non-numeric characters (ex: @, #, *, -), AND I tap on “Calculate”, **THEN** I should still be on the same page, AND I should see an error message ‘Please fill in all fields.’ 
 
+## Credits
+Developed as a group project for Software Engineering II.
 
+Team members:
+- Ivan Ibarra
+- Javier Arias
+- Mauricio Garza
 
+## My Contributions
+- Designed and implemented core BMI calculation utilities in Dart, including metric and imperial formulas.
+- Developed logic to determine healthy weight ranges and calculate required weight gain or loss based on BMI classification.
+- Implemented BMI category classification (underweight, healthy, overweight, obese).
+- Designed high-fidelity UI mockups in Figma and translated them into the application’s interface.
+- Wrote and maintained unit tests and integration tests to validate calculation accuracy and app behavior.
