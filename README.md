@@ -1,11 +1,13 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21851766)
-# Final Project  
+# BMI Calculator
 
 ### Customer Request
 
 *"I want an app that tells me my Body Mass Index. I should be able to input my height, weight, and gender and the app should calculate and show my BMI and tell me if I'm overweight or underweight."*
 
 ---
+
+## Demo
+  [](https://github.com/user-attachments/assets/7102b8a9-46ac-45c0-badb-70ac43776b22)
 
 ## Behavior-Driven Design
 
